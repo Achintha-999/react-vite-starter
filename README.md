@@ -1,4 +1,4 @@
-# ⚛️ React + Vite Starter
+#  ⚛️ React + Vite Starter
 
 A minimal and fast starter template for building React 19 applications using [Vite](https://vitejs.dev/). It includes essential tooling like ESLint for maintaining code quality and Hot Module Replacement for seamless development.
 
